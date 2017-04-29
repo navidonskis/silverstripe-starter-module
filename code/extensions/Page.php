@@ -33,6 +33,8 @@ use URLSegmentFilter;
  *
  * @method Image MetaPicture
  * @method DataObject getOwner
+ *
+ * @TODO finish write an extension. Not tested yet, just written without tests.
  */
 class Page extends DataExtension {
 
