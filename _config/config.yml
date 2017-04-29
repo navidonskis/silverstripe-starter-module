@@ -1,0 +1,6 @@
+---
+Name: yourmodulename
+After:
+  - 'framework/*'
+  - 'cms/*'
+---

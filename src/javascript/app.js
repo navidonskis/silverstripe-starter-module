@@ -1,0 +1,1 @@
+// write your javascript in ES6 !
